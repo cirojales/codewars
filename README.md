@@ -1,2 +1,2 @@
 # codewars
-Soluções de alguns desafios do Codewars. 
+Soluções de desafios do Codewars. 
